@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --font-sans: var(--font-dm-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-playfair), ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+
+  --color-primary: #E8622A;
+  --color-base-100: #0a0a0a;
+  --color-base-200: #111111;
+  --color-base-content: #F5F0E8;
+  --color-base-content-muted: #6B6B6B;
+  --color-border: #1F1F1F;
+}
+
+body {
+  background-color: var(--color-base-100);
+  color: var(--color-base-content);
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+}
+
+/* Custom utilities */
+.text-muted {
+  color: var(--color-base-content-muted);
+}
+
+/* Swiper pagination dots */
+.swiper-pagination-bullet {
+  background: #6B6B6B !important;
+  opacity: 1 !important;
+}
+.swiper-pagination-bullet-active {
+  background: #E8622A !important;
+}
