@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.80,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch with hands-on projects.",
+    "image": "/courses/webdev.jpg",
+    "category": "Development",
+    "curriculum": [
+      "Introduction to HTML & CSS",
+      "JavaScript Fundamentals",
+      "React Basics",
+      "Node.js & Express",
+      "Database with MongoDB",
+      "Deploying your app"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "UI Design Essentials: Figma to Prototype",
+    "instructor": "Amina Rahman",
+    "duration": "12 hours",
+    "rating": 4.70,
+    "level": "Beginner",
+    "description": "Design modern interfaces, build components, and ship clickable prototypes.",
+    "image": "/courses/design.jpg",
+    "category": "Design",
+    "curriculum": [
+      "Figma Interface Overview",
+      "Design Principles & Typography",
+      "Component Libraries",
+      "Auto Layout & Constraints",
+      "Prototyping & Interactions",
+      "Exporting & Handoff"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Mastery: SEO + Ads",
+    "instructor": "Carlos Silva",
+    "duration": "15 hours",
+    "rating": 4.60,
+    "level": "Intermediate",
+    "description": "Grow traffic and conversions with SEO, Google Ads, and content strategy.",
+    "image": "/courses/marketing.jpg",
+    "category": "Marketing",
+    "curriculum": [
+      "SEO Fundamentals",
+      "Keyword Research",
+      "Google Ads Setup",
+      "Content Marketing Strategy",
+      "Analytics & Tracking",
+      "Conversion Optimization"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "React & Next.js Projects: Build Like a Pro",
+    "instructor": "Sabrina Chen",
+    "duration": "16 hours",
+    "rating": 4.85,
+    "level": "Intermediate",
+    "description": "Build production-ready apps using React patterns and Next.js App Router.",
+    "image": "/courses/nextjs.jpg",
+    "category": "Development",
+    "curriculum": [
+      "React Advanced Patterns",
+      "Next.js App Router",
+      "Server Components",
+      "Data Fetching Strategies",
+      "Authentication Integration",
+      "Deployment on Vercel"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Data Analytics with Excel & Power BI",
+    "instructor": "Nadia Khan",
+    "duration": "18 hours",
+    "rating": 4.90,
+    "level": "Beginner",
+    "description": "Analyze data, build dashboards, and tell compelling stories with visuals.",
+    "image": "/courses/data.jpg",
+    "category": "Data",
+    "curriculum": [
+      "Excel Fundamentals",
+      "Pivot Tables & Charts",
+      "Power BI Interface",
+      "Data Modeling",
+      "Building Dashboards",
+      "Sharing & Collaboration"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Python for Automation & Scripting",
+    "instructor": "James Wright",
+    "duration": "14 hours",
+    "rating": 4.75,
+    "level": "Intermediate",
+    "description": "Automate repetitive tasks, scrape data, and build useful scripts with Python.",
+    "image": "/courses/python.jpg",
+    "category": "Development",
+    "curriculum": [
+      "Python Basics Refresher",
+      "File & Folder Automation",
+      "Web Scraping with BeautifulSoup",
+      "Working with APIs",
+      "Scheduling Scripts",
+      "Building CLI Tools"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Brand Identity Design from Scratch",
+    "instructor": "Amina Rahman",
+    "duration": "10 hours",
+    "rating": 4.65,
+    "level": "Beginner",
+    "description": "Create memorable brand identities with logos, color systems, and style guides.",
+    "image": "/courses/branding.jpg",
+    "category": "Design",
+    "curriculum": [
+      "What Makes a Strong Brand",
+      "Logo Design Process",
+      "Color Theory & Palettes",
+      "Typography Systems",
+      "Brand Guidelines Document",
+      "Presenting to Clients"
+    ]
+  }
+]
